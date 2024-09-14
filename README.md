@@ -1,21 +1,28 @@
-on front end
+Project Setup and Instructions
+Frontend
+Install Dependencies:
 
-install react
-install react icons
-install framer motion
+React: npm install react
+React Icons: npm install react-icons
+Framer Motion: npm install framer-motion
+Running the Frontend:
 
-to run - npm run dev
-
-
-on backend
-
-install node
-install express
-install zod
-install mongoose
-
-to run - npm run start ( dont run the backend)
+Start the development server: npm run dev
 
 
---> Backend not working properly
---> Front end you can explore 
+<-------------Additional Notes------------------>
+The backend is currently experiencing issues and may not function correctly.
+The frontend is fully operational and can be explored.
+
+
+
+Backend
+Install Dependencies:
+
+Node.js: Download and Install
+Express: npm install express
+Zod: npm install zod
+Mongoose: npm install mongoose
+Running the Backend:
+
+Start the backend server: npm run start (Note: The backend server may not be functioning as expected.)
